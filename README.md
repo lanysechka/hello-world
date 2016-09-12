@@ -1,3 +1,4 @@
 # hello-world
 Just another repository
-123123123
+
+Я еще только учусь.
